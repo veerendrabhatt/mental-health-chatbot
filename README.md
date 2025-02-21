@@ -7,7 +7,6 @@ This project involves the development of a mental health support chatbot that us
 - **Emotion Recognition**: Understands the emotional tone of user input and responds accordingly.
 - **Mental Health Resources**: Provides suggestions and links to mental health resources, including helplines and informative articles.
 - **Self-help Techniques**: Offers coping mechanisms, including breathing exercises and mindfulness tips.
-- **24/7 Availability**: Available any time for user interaction and support.
 
 ## Technologies Used
 - **Flask**: For building the web interface and handling API requests.
