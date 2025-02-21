@@ -94,10 +94,6 @@ We welcome contributions to this project! If you would like to improve or expand
 5. Push to the branch (`git push origin feature-name`)
 6. Create a new pull request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to the creators of [LangChain](https://www.langchain.com/) for providing an excellent framework to build conversational agents.
