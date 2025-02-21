@@ -1,0 +1,4 @@
+flaskpip install langchain-groq
+langchain-groq
+langchain-core
+python-dotenv 
